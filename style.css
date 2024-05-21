@@ -84,7 +84,7 @@
     text-transform: uppercase;
     margin-bottom: 2rem;
   }
-  .content p{
+  .content p {
     color: var(--text-dark);
     font-family: var(--font-family1);
     font-size: 1rem;
